@@ -1,1 +1,7 @@
-Pikachu
+"Pikachu"
+"Squirtle"
+"Bulbasaur"
+"Charmander"
+"Mewtwo"
+"Koffing"
+"Abra"
